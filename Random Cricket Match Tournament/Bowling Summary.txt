@@ -1,0 +1,25 @@
+Australia -Bowling
+
+Nathan Lyon 2
+Adam Zampa 2
+Mitchell Starc 2
+Pat Cummins 2
+Marcus Stoinis 1
+Glen Maxwell 1
+Matthew Wade 1
+Steve Smith 1
+Mitchell Marsh 2
+Aron Finch 2
+
+Pakistan -Bowling
+
+Haris Rauf 1
+Shaheen Afridi 0
+Hasan Ali 1
+Shadab Khan 2
+Imad Wasim 1
+Mohommad Hafeez 1
+Shoaib Malik 2
+Asan Ali 0
+Farkar Zaman 0
+Babar Azam 0
